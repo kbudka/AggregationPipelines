@@ -1,0 +1,204 @@
+MongoDB shell version: 2.6.5
+connecting to: 127.0.0.1/test
+{ "_id" : { "Country" : "Afghanistan" }, "Quantity" : 38 }
+{ "_id" : { "Country" : "Aland Islands" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Albania" }, "Quantity" : 43 }
+{ "_id" : { "Country" : "Algeria" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "American Samoa" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Angola" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Anguilla" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Antigua and Barbuda" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Argentina" }, "Quantity" : 122 }
+{ "_id" : { "Country" : "Armenia" }, "Quantity" : 34 }
+{ "_id" : { "Country" : "Aruba" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Australia" }, "Quantity" : 10 }
+{ "_id" : { "Country" : "Austria" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Azerbaijan" }, "Quantity" : 23 }
+{ "_id" : { "Country" : "Bahrain" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Bangladesh" }, "Quantity" : 18 }
+{ "_id" : { "Country" : "Belarus" }, "Quantity" : 33 }
+{ "_id" : { "Country" : "Belgium" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Belize" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Benin" }, "Quantity" : 6 }
+{ "_id" : { "Country" : "Bermuda" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Bhutan" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Bolivia" }, "Quantity" : 24 }
+{ "_id" : { "Country" : "Bosnia and Herzegovina" }, "Quantity" : 17 }
+{ "_id" : { "Country" : "Botswana" }, "Quantity" : 18 }
+{ "_id" : { "Country" : "Brazil" }, "Quantity" : 340 }
+{ "_id" : { "Country" : "Bulgaria" }, "Quantity" : 25 }
+{ "_id" : { "Country" : "Burkina Faso" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Burundi" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Cambodia" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Cameroon" }, "Quantity" : 17 }
+{ "_id" : { "Country" : "Canada" }, "Quantity" : 95 }
+{ "_id" : { "Country" : "Cape Verde" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Cayman Islands" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Central African Republic" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Chad" }, "Quantity" : 8 }
+{ "_id" : { "Country" : "Chile" }, "Quantity" : 26 }
+{ "_id" : { "Country" : "China" }, "Quantity" : 1703 }
+{ "_id" : { "Country" : "Colombia" }, "Quantity" : 112 }
+{ "_id" : { "Country" : "Comoros" }, "Quantity" : 8 }
+{ "_id" : { "Country" : "Costa Rica" }, "Quantity" : 15 }
+{ "_id" : { "Country" : "Croatia" }, "Quantity" : 52 }
+{ "_id" : { "Country" : "Cuba" }, "Quantity" : 22 }
+{ "_id" : { "Country" : "Cyprus" }, "Quantity" : 15 }
+{ "_id" : { "Country" : "Czech Republic" }, "Quantity" : 158 }
+{ "_id" : { "Country" : "Democratic Republic of the Congo" }, "Quantity" : 13 }
+{ "_id" : { "Country" : "Denmark" }, "Quantity" : 10 }
+{ "_id" : { "Country" : "Djibouti" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Dominica" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Dominican Republic" }, "Quantity" : 27 }
+{ "_id" : { "Country" : "East Timor" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Ecuador" }, "Quantity" : 17 }
+{ "_id" : { "Country" : "Egypt" }, "Quantity" : 26 }
+{ "_id" : { "Country" : "El Salvador" }, "Quantity" : 10 }
+{ "_id" : { "Country" : "Equatorial Guinea" }, "Quantity" : 8 }
+{ "_id" : { "Country" : "Estonia" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Ethiopia" }, "Quantity" : 26 }
+{ "_id" : { "Country" : "Falkland Islands" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Faroe Islands" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Finland" }, "Quantity" : 51 }
+{ "_id" : { "Country" : "France" }, "Quantity" : 286 }
+{ "_id" : { "Country" : "French Guiana" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "French Polynesia" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "French Southern Territories" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Gabon" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Gambia" }, "Quantity" : 8 }
+{ "_id" : { "Country" : "Georgia" }, "Quantity" : 17 }
+{ "_id" : { "Country" : "Germany" }, "Quantity" : 27 }
+{ "_id" : { "Country" : "Ghana" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Greece" }, "Quantity" : 121 }
+{ "_id" : { "Country" : "Greenland" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Guadeloupe" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Guam" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Guatemala" }, "Quantity" : 33 }
+{ "_id" : { "Country" : "Guinea" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Guyana" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Haiti" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Honduras" }, "Quantity" : 42 }
+{ "_id" : { "Country" : "Hungary" }, "Quantity" : 9 }
+{ "_id" : { "Country" : "Iceland" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Indonesia" }, "Quantity" : 997 }
+{ "_id" : { "Country" : "Iran" }, "Quantity" : 39 }
+{ "_id" : { "Country" : "Iraq" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Ireland" }, "Quantity" : 35 }
+{ "_id" : { "Country" : "Israel" }, "Quantity" : 15 }
+{ "_id" : { "Country" : "Italy" }, "Quantity" : 14 }
+{ "_id" : { "Country" : "Ivory Coast" }, "Quantity" : 14 }
+{ "_id" : { "Country" : "Jamaica" }, "Quantity" : 13 }
+{ "_id" : { "Country" : "Japan" }, "Quantity" : 148 }
+{ "_id" : { "Country" : "Jordan" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Kazakhstan" }, "Quantity" : 37 }
+{ "_id" : { "Country" : "Kenya" }, "Quantity" : 16 }
+{ "_id" : { "Country" : "Kiribati" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Kosovo" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Kuwait" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Kyrgyzstan" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Laos" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Latvia" }, "Quantity" : 18 }
+{ "_id" : { "Country" : "Lebanon" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Lesotho" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Liberia" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Libya" }, "Quantity" : 11 }
+{ "_id" : { "Country" : "Lithuania" }, "Quantity" : 9 }
+{ "_id" : { "Country" : "Luxembourg" }, "Quantity" : 11 }
+{ "_id" : { "Country" : "Macedonia" }, "Quantity" : 17 }
+{ "_id" : { "Country" : "Madagascar" }, "Quantity" : 19 }
+{ "_id" : { "Country" : "Malawi" }, "Quantity" : 6 }
+{ "_id" : { "Country" : "Malaysia" }, "Quantity" : 36 }
+{ "_id" : { "Country" : "Maldives" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Mali" }, "Quantity" : 9 }
+{ "_id" : { "Country" : "Malta" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Marshall Islands" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Martinique" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Mauritania" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Mauritius" }, "Quantity" : 8 }
+{ "_id" : { "Country" : "Mayotte" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Mexico" }, "Quantity" : 98 }
+{ "_id" : { "Country" : "Micronesia" }, "Quantity" : 9 }
+{ "_id" : { "Country" : "Moldova" }, "Quantity" : 6 }
+{ "_id" : { "Country" : "Monaco" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Mongolia" }, "Quantity" : 35 }
+{ "_id" : { "Country" : "Montenegro" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Montserrat" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Morocco" }, "Quantity" : 35 }
+{ "_id" : { "Country" : "Mozambique" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Myanmar" }, "Quantity" : 18 }
+{ "_id" : { "Country" : "Namibia" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Nepal" }, "Quantity" : 19 }
+{ "_id" : { "Country" : "Netherlands" }, "Quantity" : 36 }
+{ "_id" : { "Country" : "New Caledonia" }, "Quantity" : 9 }
+{ "_id" : { "Country" : "New Zealand" }, "Quantity" : 18 }
+{ "_id" : { "Country" : "Nicaragua" }, "Quantity" : 19 }
+{ "_id" : { "Country" : "Niger" }, "Quantity" : 6 }
+{ "_id" : { "Country" : "Nigeria" }, "Quantity" : 84 }
+{ "_id" : { "Country" : "Norfolk Island" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "North Korea" }, "Quantity" : 15 }
+{ "_id" : { "Country" : "Norway" }, "Quantity" : 44 }
+{ "_id" : { "Country" : "Oman" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Pakistan" }, "Quantity" : 44 }
+{ "_id" : { "Country" : "Palestinian Territory" }, "Quantity" : 43 }
+{ "_id" : { "Country" : "Panama" }, "Quantity" : 22 }
+{ "_id" : { "Country" : "Papua New Guinea" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Paraguay" }, "Quantity" : 13 }
+{ "_id" : { "Country" : "Peru" }, "Quantity" : 130 }
+{ "_id" : { "Country" : "Philippines" }, "Quantity" : 485 }
+{ "_id" : { "Country" : "Poland" }, "Quantity" : 310 }
+{ "_id" : { "Country" : "Portugal" }, "Quantity" : 298 }
+{ "_id" : { "Country" : "Puerto Rico" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Qatar" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Republic of the Congo" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Reunion" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Russia" }, "Quantity" : 538 }
+{ "_id" : { "Country" : "Saint Barthelemy" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Saint Helena" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Saint Lucia" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Saint Vincent and the Grenadines" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Samoa" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Saudi Arabia" }, "Quantity" : 8 }
+{ "_id" : { "Country" : "Senegal" }, "Quantity" : 13 }
+{ "_id" : { "Country" : "Serbia" }, "Quantity" : 57 }
+{ "_id" : { "Country" : "Sierra Leone" }, "Quantity" : 9 }
+{ "_id" : { "Country" : "Slovenia" }, "Quantity" : 43 }
+{ "_id" : { "Country" : "Solomon Islands" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Somalia" }, "Quantity" : 6 }
+{ "_id" : { "Country" : "South Africa" }, "Quantity" : 61 }
+{ "_id" : { "Country" : "South Georgia and the South Sandwich Islands" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "South Korea" }, "Quantity" : 24 }
+{ "_id" : { "Country" : "South Sudan" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Spain" }, "Quantity" : 20 }
+{ "_id" : { "Country" : "Sri Lanka" }, "Quantity" : 20 }
+{ "_id" : { "Country" : "Sudan" }, "Quantity" : 11 }
+{ "_id" : { "Country" : "Suriname" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Swaziland" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Sweden" }, "Quantity" : 205 }
+{ "_id" : { "Country" : "Switzerland" }, "Quantity" : 3 }
+{ "_id" : { "Country" : "Syria" }, "Quantity" : 42 }
+{ "_id" : { "Country" : "Taiwan" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Tajikistan" }, "Quantity" : 7 }
+{ "_id" : { "Country" : "Tanzania" }, "Quantity" : 39 }
+{ "_id" : { "Country" : "Thailand" }, "Quantity" : 115 }
+{ "_id" : { "Country" : "Togo" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Tokelau" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Tonga" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Trinidad and Tobago" }, "Quantity" : 5 }
+{ "_id" : { "Country" : "Tunisia" }, "Quantity" : 23 }
+{ "_id" : { "Country" : "Turkey" }, "Quantity" : 2 }
+{ "_id" : { "Country" : "Turkmenistan" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "Tuvalu" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "U.S. Virgin Islands" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Uganda" }, "Quantity" : 14 }
+{ "_id" : { "Country" : "Ukraine" }, "Quantity" : 142 }
+{ "_id" : { "Country" : "United Arab Emirates" }, "Quantity" : 4 }
+{ "_id" : { "Country" : "United Kingdom" }, "Quantity" : 11 }
+{ "_id" : { "Country" : "United States" }, "Quantity" : 188 }
+{ "_id" : { "Country" : "Uruguay" }, "Quantity" : 12 }
+{ "_id" : { "Country" : "Uzbekistan" }, "Quantity" : 17 }
+{ "_id" : { "Country" : "Venezuela" }, "Quantity" : 46 }
+{ "_id" : { "Country" : "Vietnam" }, "Quantity" : 80 }
+{ "_id" : { "Country" : "Western Sahara" }, "Quantity" : 1 }
+{ "_id" : { "Country" : "Yemen" }, "Quantity" : 43 }
+{ "_id" : { "Country" : "Zambia" }, "Quantity" : 18 }
+{ "_id" : { "Country" : "Zimbabwe" }, "Quantity" : 10 }

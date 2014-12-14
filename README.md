@@ -2,7 +2,7 @@ Użyte agregacje:
 
 1. Populacja państw posortowana po nazwie (result: countryPopulationOrder.json)
 
-var getCountryPopulation = db.data.aggregate(
+<pre>var getCountryPopulation = db.data.aggregate(
   [
     { $project :  { Country : "$country" } },
     { $group : { _id : {Country:"$Country"} , Quantity : { $sum : 1 } } },
@@ -13,12 +13,12 @@ var getCountryPopulation = db.data.aggregate(
 while(getcountryPopulation.hasNext()) {
 	printjson(getcountryPopulation.next())
 }
-
+</pre>
 
 
 2. Najczęściej występujące imie (result: mostGivenName.json)
 
-var getMostGivenName = db.data.aggregate(
+<pre>var getMostGivenName = db.data.aggregate(
   [
     { $project :  { FirstName : "$first_name" } },
     { $group : { _id : {FirstName:"$FirstName"} , Quantity : { $sum : 1 } } },
@@ -27,13 +27,13 @@ var getMostGivenName = db.data.aggregate(
   ]
 );
 
-printjson(getMostGivenName.next())
+printjson(getMostGivenName.next())</pre>
 
 
 
 3. Ilość pojedyńczych nazwisk w poszczególnych Państwach (result: surnameCountryPopulation.json)
 
-var getSurnameCountryPopulation = db.data.aggregate(
+<pre>var getSurnameCountryPopulation = db.data.aggregate(
   [
     { $project :  { Country : "$country" , Surname : "$last_name" } },
     { $group : { _id : {Surname:"$Surname", Country : "$Country"} , Quantity : { $sum : 1 } } },
@@ -43,13 +43,13 @@ var getSurnameCountryPopulation = db.data.aggregate(
 
 while(getSurnameCountryPopulation.hasNext()) {
 	printjson(getSurnameCountryPopulation.next())
-}
+}</pre>
 
 
 
 4. Ilość użytkowników posiadających maila na domenie Amazon w poszczególnych miastach (result: amazonDomainCountryPopulation.json)
 
-var getAmazonDomainByCountryPopulation = db.data.aggregate(
+<pre>var getAmazonDomainByCountryPopulation = db.data.aggregate(
   [
     { $project :  { Country : "$country" , email : "$email" } },
     { $match : { email : { $regex : /.*amazon.*/ } } },
@@ -60,10 +60,11 @@ var getAmazonDomainByCountryPopulation = db.data.aggregate(
 
 while(getAmazonDomainByCountryPopulation.hasNext()) {
 	printjson(getAmazonDomainByCountryPopulation.next())
-}
+}</pre>
 
 
 
 
 
-Wersja Java: AggregationPipeline.java [ pomocnicza klasa do nawiązania połączenia: Connection.java ]
+Wersja Java: 
+<pre>AggregationPipeline.java [ pomocnicza klasa do nawiązania połączenia: Connection.java ]</pre>
